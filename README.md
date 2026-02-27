@@ -1,5 +1,7 @@
 # Mesh Dimension Checker
 
+**[👉 Play with the Live Demo Here!](https://ShawnMeo.github.io/MeshDimensionChecker/)**
+
 A lightweight, web-based utility designed for 3D Technical Artists, Modeler, and Game Developers. This tool helps you quickly verify, transform, and scale 3D models against real-world references right in your browser—no software installation required.
 
 ## Why Use This?
@@ -19,7 +21,7 @@ Quickly spawn reference models directly alongside your asset to guarantee accura
 - Standard Door (2.1 x 0.9m)
 - Soda Can (12.2 x 6.6cm)
 - Car (4.5 x 1.5 x 1.8m)
-- ...and more.
+- ...and more being implemented.
 
 ### 3. Move, Rotate, and Scale Gizmos (W, E, R)
 Select any object in the scene and modify it using standard industry gizmo hotkeys:
