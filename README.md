@@ -2,7 +2,7 @@
 
 **[👉 Play with the Live Demo Here!](https://ShawnMeo.github.io/MeshDimensionChecker/)**
 
-A lightweight, web-based utility designed for 3D Technical Artists, Modeler, and Game Developers. This tool helps you quickly verify, transform, and scale 3D models against real-world references right in your browser—no software installation required.
+A lightweight, web-based utility designed for 3D Artists, Modelers, and Game Developers. This tool helps you quickly verify, transform, and scale 3D models against real-world references right in your browser—no software installation required.
 
 ## Why Use This?
 When collaborating across different 3D software (Blender, Maya, Unreal Engine), models often suffer from scale discrepancies due to mismatched unit settings (e.g., 1 unit = 1cm vs 1m). This tool offers a fast, frictionless way to:
